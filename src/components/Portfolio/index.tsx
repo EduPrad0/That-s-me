@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 import { ContainerPort } from "./styles";
 import { Codeqr } from "./Codeqr";
 import { Curso } from "./Curso";
