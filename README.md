@@ -1,3 +1,17 @@
+# Portfólio 2.0
+
+Eaiiii rapaziada, Prazer meu nome é Eduardo e espero que você curta o meu portfólio!!!!!!!!
+
+Aproveita e da uma olhada nos outros repositorios !
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
