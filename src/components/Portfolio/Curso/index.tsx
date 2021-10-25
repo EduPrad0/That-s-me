@@ -13,7 +13,7 @@ export function Curso(){
                         Neste prototipo, é feito um jogo da velha todo em java, onde você pode verificar mais sobre o codigo
                         em : 
                     </p>
-                    <a href="">Jogo da velha em Java</a>
+                    <a href="https://www.jdoodle.com/ia/hIO">Jogo da velha em Java</a>
                 </section>
                 
                 <div>
