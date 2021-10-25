@@ -20,18 +20,14 @@ export function Skills(){
 
             <section>
                 {
-                    technologies.map(skill => {
-                    
-                        if(skill.image.length < 4){
-                            return;
-                        }        
-
+                    technologies.map(element => {
                         return (
                             <Skill>
-                                <ImageFormat key={skill.id} tec={skill.image} nmr={skill.nmr}/>
+                                <ImageFormat key={element.id} tec={element.image} nmr={element.nmr}/>
                             </Skill>
                         );
                     })
+
                 }
             </section>
         </Container>
