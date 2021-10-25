@@ -5,13 +5,6 @@ import todo from '../../../assets/Todo.png'
 
 import { Divizinha } from "../styles";
 
-interface elementProps {
-    name: string;
-    description: string;
-    link: string;
-    img: string;
-
-}
 
 export function OtherProjects(){
     
