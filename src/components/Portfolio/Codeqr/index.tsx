@@ -6,9 +6,9 @@ export function Codeqr(){
     const [ isActive, setIsActive ] = useState(true)
     
 
-    // setInterval(() => {
-    //     setIsActive(!isActive)
-    // },10000)
+    setInterval(() => {
+        setIsActive(!isActive)
+    },10000)
 
 
     function img(){
