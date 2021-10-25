@@ -3,36 +3,13 @@ import code from '../../../assets/codeGenerator.png'
 import { useState } from "react";
 
 export function Codeqr(){
-    const [ isActive, setIsActive ] = useState(true)
-    
-
-    setInterval(() => {
-        setIsActive(!isActive)
-    },10000)
-
-
-    function img(){
-        if(isActive){
-            return (
-                <div>
-                    <img src={code} alt="" />
-                </div> 
-            ); 
-        }else{
-            return(
-            <AnimationImg> 
-                <img src={code} alt="" />
-            </AnimationImg>
-            );
-        }
-
-    }
-
     return (
         <>
             <Container>
                 <div>
-                    {img()}
+                    <div>
+                        <img src={code} alt="" />
+                    </div> 
                 </div>
                 <section>
                     <h2>Projeto <span>Product QrCode</span></h2>
