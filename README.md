@@ -1,8 +1,7 @@
 # Portfólio 2.0
 
-Eaiiii rapaziada, Prazer meu nome é Eduardo e espero que você curta o meu portfólio!!!!!!!!
+Eaiiii rapaziada, Prazer meu nome é Eduardo e espero que vocês gostem do meu portfólio!!!!!!!!
 
-Aproveita e da uma olhada nos outros repositorios !
 
 
 
