@@ -67,6 +67,8 @@ export const Container = styled.div`
 
 export const ContainerSenai = styled.section`
     background-color: #92CBDC;
+    background-size: cover; 
+    width: 100vw;
 
 
     padding: 7rem;

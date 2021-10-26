@@ -2,6 +2,8 @@ import styled from "styled-components";
 import astronaut from '../../assets/astronautWW.png'
 
 export const ContainerHome = styled.main`
+    width: 100%;
+
     background-attachment: fixed;
    position: relative;
     display: flex;
@@ -29,7 +31,7 @@ export const ContainerHome = styled.main`
         }
     }
 
-    margin-bottom: 6rem;
+    padding: 8rem;
 
 
     @media (max-width: 768px) {
@@ -90,7 +92,7 @@ export const ContainerAbout = styled.main`
         max-width: 20rem;
     }
 
-    margin-bottom: 6rem;
+    padding: 8rem;
 
     @media (max-width: 768px) {
         article{
