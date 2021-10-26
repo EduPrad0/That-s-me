@@ -1,6 +1,5 @@
-import { AnimationImg, Container } from "../styles";
+import {  Container } from "../styles";
 import code from '../../../assets/codeGenerator.png'
-import { useState } from "react";
 
 export function Codeqr(){
     return (
