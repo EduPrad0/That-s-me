@@ -63,27 +63,6 @@ export const Container = styled.div`
 `;
 
 
-export const AnimationImg = styled.section`
-    @media (max-width: 768px) {
-        animation: treme 0.1s;
-    }
-
-
-        img {
-            animation: treme 0.3s;
-            animation-iteration-count: 3;
-        }
-
-        @keyframes treme {
-        0% {transform: skewY(-2deg);}
-        25% {transform: skewY(-1deg)}
-        50% {transform: skewY(2deg)}
-        75% {transform: skewY(1deg);}
-        100% {transform: skewY(0)}
-        }
-    
-`;
-
 
 
 export const ContainerSenai = styled.section`
