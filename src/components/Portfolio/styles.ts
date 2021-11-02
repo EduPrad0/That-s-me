@@ -71,7 +71,7 @@ export const ContainerSenai = styled.section`
     width: 100vw;
 
 
-    padding: 7rem;
+    padding: 2rem;
     display: flex;
     align-items: center;
     position: relative;
@@ -100,9 +100,8 @@ export const ContainerSenai = styled.section`
        flex-direction: column;
 
        section{
-           margin: 0;
-           padding: 0;
-           text-align: center;
+
+        text-align: center;
         }
     }
 `;
