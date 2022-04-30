@@ -19,7 +19,7 @@ export function Welcome(){
                     Bem-vindo!
                     </h1>
                     <p>
-                    Meu nome é Eduardo e sou Desenvolvedor Front-end <br />
+                    Meu nome é Eduardo e sou desenvolvedor <br />
                     esse é o meu portfólio, explore-o
                     </p>
                     
@@ -40,17 +40,16 @@ export function Welcome(){
                     <h1>Sobre Mim</h1>
                     <p>
                     Meu nome é Eduardo Do Prado
-                    e tenho 18 anos
+                    e tenho 19 anos
                     atualmente moro em Cotia SP,
                     e estudo Analise e desenvolvimento
                     de sistemas.
-                    Eu trabalho na área de front-end,
                     Comecei a programar em 2021
-                    aos meus 18 anos
+                    aos meus 18 anos, e trabalho desde então com JS.
                     </p>
                    
                     <span onClick={() => setHomeIsOn(true)}>
-                        <Button name={"Sobre mim"} />
+                        <Button name={"Inicio"} />
                     </span>
                 </div>
             </ ContainerAbout>

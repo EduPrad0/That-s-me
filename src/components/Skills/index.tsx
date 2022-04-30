@@ -9,7 +9,6 @@ import { ImageFormat } from "./ImageFormat";
 export function Skills(){
     useEffect(()=>{
         Aos.init({duration: 3000});
-           
        },[])
    
     return(

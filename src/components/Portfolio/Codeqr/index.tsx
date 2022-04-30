@@ -7,7 +7,7 @@ export function Codeqr(){
             <Container>
                 <div>
                     <div>
-                        <img src={code} alt="" />
+                        <img src={code} alt="phone" />
                     </div> 
                 </div>
                 <section>

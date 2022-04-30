@@ -30,6 +30,8 @@ export const Fil = styled.div`
 
         img{
             padding: 1rem 3rem;
+            width: 196px;
+            height: 132px;
         }
     }
 

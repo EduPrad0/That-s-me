@@ -14,6 +14,10 @@ import scrum from "../../../assets/iconScrum.png"
 import ts from "../../../assets/iconTs.png"
 import next from "../../../assets/next.png"
 import prisma from "../../../assets/prisma.svg"
+import aws from "../../../assets/iconAws.png"
+import angular from "../../../assets/iconAngular.png"
+import dynamo from "../../../assets/iconDynamoDb.png"
+import other from "../../../assets/download.png"
 
 
 
@@ -43,6 +47,11 @@ export const technologies = [
         id: 4,
         nmr: 3,
         image: [scrum, msql, bootstrap, git]
+    },
+    {
+        id:5,
+        nmr: 4,
+        image: [aws, angular, dynamo, other]
     }
    
 ]
